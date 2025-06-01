@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_image": "",
+      "student_name": "John Doe",
+      "student_email": "john@example.com",
+      "student_mobile": "9876545678",
+      "student_address": "123 Main St, City"
+    }
+  ]
+}
