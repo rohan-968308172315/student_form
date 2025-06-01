@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000/students';
+const API_URL = 'https://683c53e128a0b0f2fdc6d1d5.mockapi.io/StudentAPI/students';
 
 export const getStudents = async () => {
   return await axios.get(API_URL);
